@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋 I'm Sanatbek Zhamurzaev</h1>
-
+  Aspiring Machine Learning & Data Science
 # 💫 About Me:
-I am a second-year computer science student at ELTE University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I'm a Computer Science student at ELTE with hands-on experience in data analysis, machine learning, and statistical modeling. I’ve built projects in housing price prediction and macroeconomic forecasting, applying tools like Python, Pandas, Scikit-learn, and SQL.
 
+I recently participated in the Byborg AI Hackathon, where we developed an AI-powered storytelling app.
+
+I'm actively seeking an internship where I can contribute to data-driven projects, grow in a professional environment, and apply my passion for AI in real-world scenarios.
 
 
 ## 🌐 Connect with me:
