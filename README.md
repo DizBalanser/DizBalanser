@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sanatbek Zhamurzaev</h1>
-  Aspiring Machine Learning & Data Science
+
 # 💫 About Me:
 I'm a Computer Science student at ELTE with hands-on experience in data analysis, machine learning, and statistical modeling. I’ve built projects in housing price prediction and macroeconomic forecasting, applying tools like Python, Pandas, Scikit-learn, and SQL.
 
